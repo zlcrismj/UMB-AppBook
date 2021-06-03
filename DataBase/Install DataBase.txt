@@ -1,0 +1,2 @@
+Install Xampp Windows x64 
+Create a database in PHPMyAdmin with name "appbook" and import the file "appbook.sql"
