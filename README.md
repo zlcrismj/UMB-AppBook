@@ -9,7 +9,7 @@ Later open the project from NetBeans 8.2
 
 Login data
 
-Administator
+Administrator
 User: admin
 Password: 123
 
