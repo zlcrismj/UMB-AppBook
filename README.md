@@ -1,13 +1,15 @@
 # UMB-AppBook
 This is a project called UMB App Book
 
-In order to run the application it is necessary to install the NetBeans 8.2 GUI
-Unzip the file "UMB App Book NetBeans.rar"
-Later open the project from NetBeans 8.2
+To run the application it is necessary to install the NetBeans 8.2 GUI or directly install the "UMB App Book Setup.exe" file together with java appended to the repository
 
-****************************************************
+To open the project, unzip the file "UMB App Book NetBeans.rar"
 
-Login data
+Then open the project from NetBeans 8.2
+
+*****************************************************
+
+Login details
 
 Administrator
 User: admin
@@ -17,9 +19,9 @@ Student User
 User: 25170000
 Password: 123
 
-****************************************************
+*****************************************************
 
-Remote Database
+Remote database
 Data
 
 Username: DN47TLueOk
